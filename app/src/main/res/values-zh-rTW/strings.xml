@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">bmi</string>
+    <string name="help">BMI是啥</string>
+    <string name="BMI_Desc">身高體重指數（又稱身體質量指數，英文為Body Mass Index，簡稱BMI）是一個計算值</string>
+    <string name="ok">確定</string>
+    <string name="BMI_Title">BMI</string>
+    <string name="Bmi_Ques">您的BMI值</string>
+    <string name="weight">體重</string>
+    <string name="height">身高</string>
+    <string name="calculate_bmi">計算BMI</string>
+</resources>
